@@ -1,0 +1,57 @@
+[
+    {
+        "id":"q001",
+        "question1":"1.Do you have any symptoms of coronavirus deasease?"
+      
+    },
+    {
+        "id":"q002",
+        "question2":"2.Are you using mask during walk?"
+        
+    },
+    {
+        "id":"q003",
+        "question3":"3.In the past months, have you did any forign trip?"
+        
+    },
+    {
+        "id":"q004",
+        "question4":"4.Are you currently taking immunosuppressants?"
+       
+    },
+    {
+        "id":"q005",
+        "question5":"5.In the past months, how often did you communicate with friends and family by phone, text, email, app"
+        
+    },
+    {
+        "id":"q006",
+        "question6":"6.Do you know the dos and donts about these pendamic?"
+       
+    },
+        
+    {
+        
+        "question7":"7.Do you attended any function or any social gathering before last few months?",
+        "id":"007"
+        
+    },       
+    {
+        
+        "question8":"8.Are you going to your office everyday?",
+        "id":"q008"
+       
+    },    
+    {
+        
+        "question9":"9.Are you taking preventive measures agains coronavirus?",
+        "id":"q009"
+        
+    },    
+    {
+        
+        "question10":"10.Are you talking with your neighbours during free time?",
+        "id":"q0010"
+       
+    }
+]
